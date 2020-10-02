@@ -1,9 +1,9 @@
 var mc = require('minecraft-protocol');
 var server = mc.createServer({
-  'online-mode': true,   // optional
-  encryption: true,      // optional
-  host: '0.0.0.0',       // optional
-  port: 25555,           // optional
+  'online-mode': true,
+  encryption: true,
+  host: '0.0.0.0',
+  port: 25555,
   'max-players': 250,
   motd: "Limbo Server",
   beforePing: getMotd
