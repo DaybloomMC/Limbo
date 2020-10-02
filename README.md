@@ -1,2 +1,2 @@
 # Limbo
-Free limbo server, as the other alternative is now outdated.
+Free limbo server, as alternatives are now outdated.
