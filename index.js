@@ -32,7 +32,7 @@ server.on('login', function(client) {
     },
     respawn_anchor_works: {
       type: 'byte',
-      value: 0
+      value: 0 I I
     },
     has_skylight: {
       type: 'byte',
@@ -84,7 +84,7 @@ server.on('login', function(client) {
   });
   client.write('position', {
     x: 0,
-    y: 1.62,
+    y: 0,
     z: 0,
     yaw: 0,
     pitch: 0,
