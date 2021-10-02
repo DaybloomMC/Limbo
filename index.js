@@ -3,10 +3,9 @@ var server = mc.createServer({
   'online-mode': true,   // optional
   encryption: true,      // optional
   host: '0.0.0.0',       // optional
-  port: 25555,           // optional
-  'max-players': 250,
-  motd: "Limbo Server",
-  beforePing: getMotd
+  port: 25565,           // optional
+  'max-players': 69420,
+  motd: "Limbo Server"
 });
 function getMotd(response,client){
 response.version.name = "Any";
