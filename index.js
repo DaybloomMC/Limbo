@@ -3,9 +3,9 @@ var server = mc.createServer({
   'online-mode': true,   // optional
   encryption: true,      // optional
   host: '0.0.0.0',       // optional
-  port: 25565,           // optional
+  port: 69420,           // optional
   'max-players': 69420,
-  motd: "Limbo Server"
+  motd: "Limbo Server - DaybloomMC"
 });
 function getMotd(response,client){
 response.version.name = "Any";
