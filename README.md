@@ -1,3 +1,3 @@
 # Limbo
-Free limbo server, as alternatives are now outdated.
+Free limbo server using NodeJS, as alternatives are now outdated.
 Licensed under MIT.
